@@ -1,0 +1,3 @@
+-  Hi there, 👋 I’m Ajinkya Yadav
+- 👀 I’m interested in Web development and IoT.
+- 🌱 I’m currently learning HTML, JavaScript and CSS.
